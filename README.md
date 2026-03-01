@@ -26,6 +26,14 @@ El trabajo se divide en lecciones que cubren el ciclo completo de un análisis e
 *   **Relación Positiva:** Se identificó visualmente que un mayor tiempo de estudio tiende a asociarse con mejores puntajes en los exámenes [20].
 *   **Significancia Estadística:** El test de hipótesis arrojó un **valor p de 0.0**, lo que permitió rechazar la hipótesis nula y confirmar que el promedio observado es significativamente diferente al valor hipotético [7, 18].
 
+## Archivos incluidos
+- notebook.ipynb
+- graficos.png
+- documentación de lecciones_pdf
+- informe integrador_Conclusiones_Recomendaciones.pdf
+- presentación.ppt
+  
+[Ver proyecto en GitHub](https://github.com/cgocingo-max/An-lisis-estad-stico-sobre-h-bitos-saludables-en-j-venes-universitarios.git )
 ---
 **Autora:** Cintia García Ortega  
 **Curso:** Estadística - Módulo: Inferencia Estadística
