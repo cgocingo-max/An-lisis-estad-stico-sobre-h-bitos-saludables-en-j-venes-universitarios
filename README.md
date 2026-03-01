@@ -32,8 +32,8 @@ El trabajo se divide en lecciones que cubren el ciclo completo de un análisis e
 - documentación de lecciones_pdf
 - informe integrador_conclusiones_recomendaciones.pdf
 - presentación.ppt
-  
-[Ver proyecto en GitHub](https://github.com/cgocingo-max/An-lisis-estad-stico-sobre-h-bitos-saludables-en-j-venes-universitarios.git )
----
+- [Ver proyecto en GitHub](https://github.com/cgocingo-max/An-lisis-estad-stico-sobre-h-bitos-saludables-en-j-venes-universitarios.git )
+
+  ---
 **Autora:** Cintia García Ortega  
 **Curso:** Estadística - Módulo: Inferencia Estadística
