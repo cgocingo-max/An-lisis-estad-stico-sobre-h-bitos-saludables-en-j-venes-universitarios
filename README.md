@@ -1,4 +1,4 @@
-# Analisis Estadistico sobre Habitos Saludables en Jovenes Universitarios
+# Análisis Estadístico sobre Hábitos Saludables en Jóvenes Universitarios
 
 Este proyecto presenta un estudio detallado sobre los hábitos de vida y la productividad de estudiantes universitarios, utilizando herramientas de **inferencia estadística** y programación en **Python**.
 
