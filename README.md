@@ -1,4 +1,4 @@
-# An-lisis-estad-stico-sobre-h-bitos-saludables-en-j-venes-universitarios
+# Análisis Estadístico sobre hábitos saludables en jóvenes universitarios
 Inferencia Estadística
 
 Descripción del Proyecto
