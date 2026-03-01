@@ -1,30 +1,31 @@
-# Análisis Estadístico sobre hábitos saludables en jóvenes universitarios
-Inferencia Estadística
+# Análisis Estadístico sobre Hábitos Saludables en Jóvenes Universitarios
 
-Descripción del Proyecto
-Este estudio analiza los hábitos de vida y la productividad de estudiantes universitarios utilizando el conjunto de datos "Ultimate Student Productivity Dataset", el cual cuenta con 5000 registros. El objetivo central es aplicar herramientas de inferencia estadística para comprender la distribución de estos hábitos y evaluar patrones de comportamiento académico.
-Objetivos
-Aplicar el método científico a la estadística (observación, hipótesis, análisis e interpretación).
-Evaluar la relación entre variables como horas de estudio, sueño, uso de redes sociales y burnout con respecto al rendimiento académico (puntaje de examen).
-Validar conceptos estadísticos clave como el Teorema del Límite Central y realizar pruebas de significancia.
-Tecnologías Utilizadas
-El análisis se desarrolló íntegramente en Python dentro del entorno Google Colab, utilizando las siguientes librerías:
-Pandas: Para la manipulación y exploración de la base de datos.
-NumPy: Para cálculos numéricos y manejo de muestras.
-Matplotlib: Para la generación de histogramas y gráficos de dispersión.
-Scipy.stats: Para el cálculo de intervalos de confianza y ejecución de pruebas t de una muestra.
-Estructura del Análisis
-Exploración de Datos: Carga del dataset y descripción de variables cuantitativas (ej. study_hours, exam_score) y cualitativas (ej. gender).
-Análisis de Probabilidades: Cálculo de eventos aleatorios, intersecciones y uniones sobre los hábitos de los estudiantes.
-Distribuciones: Modelado de variables mediante la distribución normal.
-Inferencia Estadística:
-Verificación empírica del Teorema del Límite Central mediante múltiples muestras.
-Construcción de intervalos de confianza al 90%, 95% y 99%.
-Test de Hipótesis: Prueba t para evaluar si el promedio del puntaje de examen difiere significativamente de un valor hipotético.
-Hallazgos Principales
-Relación Positiva: Se observa que un mayor tiempo dedicado al estudio tiende a asociarse con mejores resultados en los exámenes.
-Significancia Estadística: El test de hipótesis resultó en un valor p de 0.0, lo que llevó a rechazar la hipótesis nula, confirmando que el promedio observado es significativamente distinto al valor de referencia.
-Distribución de los Datos: Las variables clave tienden a agruparse cerca de la media, siguiendo un patrón consistente con una distribución normal.
+Este proyecto presenta un estudio detallado sobre los hábitos de vida y la productividad de estudiantes universitarios, utilizando herramientas de **inferencia estadística** y programación en **Python**.
 
---------------------------------------------------------------------------------
-Este proyecto fue realizado como parte del módulo de Inferencia Estadística por la estudiante Cintia García Ortega
+## 📌 Descripción del Proyecto
+El estudio utiliza el conjunto de datos "Ultimate Student Productivity Dataset", el cual cuenta con **5000 registros** [1, 2]. El objetivo central es aplicar el método científico para comprender la distribución de hábitos académicos y evaluar patrones de comportamiento relacionados con el rendimiento [1, 3].
+
+## 🚀 Tecnologías Utilizadas
+El análisis se desarrolló íntegramente en **Google Colab**, empleando las siguientes librerías de Python:
+*   **Pandas:** Para la manipulación y exploración de datos [4].
+*   **NumPy:** Para cálculos numéricos y manejo de muestras [5].
+*   **Matplotlib:** Para la generación de histogramas y gráficos de dispersión [6, 7].
+*   **Scipy.stats:** Para el cálculo de intervalos de confianza y ejecución de pruebas de hipótesis [8, 9].
+
+## 📊 Estructura del Análisis
+El trabajo se divide en lecciones que cubren el ciclo completo de un análisis estadístico:
+1.  **Método Científico:** Formulación de problemas e hipótesis [3, 10].
+2.  **Probabilidad:** Cálculo de eventos aleatorios, intersecciones (39.18%) y uniones (89.58%) [11, 12].
+3.  **Distribuciones:** Identificación de variables continuas y discretas, aplicando la **distribución normal** para modelar el comportamiento académico [13, 14].
+4.  **Teorema del Límite Central:** Verificación empírica mediante la generación de 1000 muestras aleatorias [5, 15].
+5.  **Intervalos de Confianza:** Estimación de rangos para medias de horas de estudio y sueño con niveles de confianza del 90%, 95% y 99% [16, 17].
+6.  **Test de Significancia:** Aplicación de una **prueba t de una muestra** para validar hipótesis sobre el puntaje de examen [9, 18].
+
+## 📈 Hallazgos Principales
+*   **Dedicación Académica:** Aproximadamente el **79.5%** de los estudiantes dedica más de 3 horas diarias al estudio [19].
+*   **Relación Positiva:** Se identificó visualmente que un mayor tiempo de estudio tiende a asociarse con mejores puntajes en los exámenes [20].
+*   **Significancia Estadística:** El test de hipótesis arrojó un **valor p de 0.0**, lo que permitió rechazar la hipótesis nula y confirmar que el promedio observado es significativamente diferente al valor hipotético [7, 18].
+
+---
+**Autora:** Cintia García Ortega  
+**Curso:** Estadística - Módulo: Inferencia Estadística
