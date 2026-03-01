@@ -30,7 +30,7 @@ El trabajo se divide en lecciones que cubren el ciclo completo de un análisis e
 - notebook.ipynb
 - graficos.png
 - documentación de lecciones_pdf
-- informe integrador_Conclusiones_Recomendaciones.pdf
+- informe integrador_conclusiones_recomendaciones.pdf
 - presentación.ppt
   
 [Ver proyecto en GitHub](https://github.com/cgocingo-max/An-lisis-estad-stico-sobre-h-bitos-saludables-en-j-venes-universitarios.git )
